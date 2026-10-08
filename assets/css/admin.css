@@ -1,0 +1,63 @@
+.wsmp-admin {
+    max-width: 1100px;
+}
+
+.wsmp-description {
+    font-size: 14px;
+    color: #646970;
+}
+
+.wsmp-card {
+    background: #ffffff;
+    border: 1px solid #dcdcde;
+    padding: 25px;
+    margin-top: 20px;
+}
+
+.wsmp-image-preview {
+    min-height: 10px;
+    margin-bottom: 12px;
+}
+
+.wsmp-image-preview img {
+    display: block;
+    max-width: 300px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+    margin-bottom: 10px;
+    border: 1px solid #dcdcde;
+    padding: 5px;
+    background: #ffffff;
+}
+
+.wsmp-status-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-weight: 600;
+}
+
+.wsmp-shortcode-card,
+.wsmp-info-card {
+    background: #ffffff;
+    border: 1px solid #dcdcde;
+    padding: 20px 25px;
+    margin-top: 25px;
+}
+
+.wsmp-shortcode-card code {
+    display: inline-block;
+    padding: 12px 18px;
+    background: #f6f7f7;
+    font-size: 16px;
+    border: 1px solid #dcdcde;
+}
+
+.wsmp-info-card ol {
+    padding-left: 20px;
+}
+
+.wsmp-info-card li {
+    margin-bottom: 8px;
+}
